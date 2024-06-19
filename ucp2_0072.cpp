@@ -4,7 +4,7 @@
  * Selamat datang di dokumentasi Sistem Manajemen Karyawan dan Proyek.
  * Sistem ini dirancang untuk mengelola karyawan dan proyek yang ada di perusahaan
  * 
- * \section structure _sec Struktur Kode
+ * \section structure_sec Struktur Kode
  * Kode ini terdiri dari dua kelas utama:
  * - \b Karyawan: Menangani informasi tentang karyawan dan proyek yang mereka ikuti.
  * - \b Proyek: Menangani informasi tentang proyek dan karyawan yang terlibat di dalamnya.
